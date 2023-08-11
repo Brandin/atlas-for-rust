@@ -213,7 +213,7 @@
         "id": -747743875,
         "shortname": "attire.egg.suit",
         "name": "Egg Suit",
-        "description": "An eggsquisite egg costume, can be painted when unequipped. Releasing publicly in 2023"
+        "description": "An eggsquisite egg costume, can be painted when unequipped."
     },
     {
         "id": 794356786,
@@ -442,6 +442,12 @@
         "shortname": "bluedogtags",
         "name": "Blue Dog Tags",
         "description": "Blue Dog Tags"
+    },
+    {
+        "id": 1364514421,
+        "shortname": "blueidtag",
+        "name": "Blue ID Tag",
+        "description": "Blue ID Tag"
     },
     {
         "id": -996920608,
@@ -762,6 +768,12 @@
         "description": "Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst."
     },
     {
+        "id": 486661382,
+        "shortname": "clantable",
+        "name": "Clan Table",
+        "description": "A table for managing clans."
+    },
+    {
         "id": 968019378,
         "shortname": "clatter.helmet",
         "name": "Clatter Helmet",
@@ -982,6 +994,24 @@
         "shortname": "discofloor.largetiles",
         "name": "Disco Floor",
         "description": "A vibrant flashing floor that pulses in time to music."
+    },
+    {
+        "id": 1046904719,
+        "shortname": "diverhatchet",
+        "name": "Abyss Metal Hatchet",
+        "description": "Metal hatchet, reclaimed from the abyss, perfect for survival and crafting"
+    },
+    {
+        "id": 1561022037,
+        "shortname": "diverpickaxe",
+        "name": "Abyss Metal Pickaxe",
+        "description": "Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor"
+    },
+    {
+        "id": 1846605708,
+        "shortname": "divertorch",
+        "name": "Abyss Torch",
+        "description": "Illuminate the underwater depths with this durable and waterproof diving torch"
     },
     {
         "id": 296519935,
@@ -1860,10 +1890,22 @@
         "description": "A Gravestone marking the remains of an unknown soul"
     },
     {
+        "id": -455286320,
+        "shortname": "grayidtag",
+        "name": "Gray ID Tag",
+        "description": "Gray ID Tag"
+    },
+    {
         "id": 858486327,
         "shortname": "green.berry",
         "name": "Green Berry",
         "description": "A green berry. Can be eaten or used in mixing table recipes to create teas."
+    },
+    {
+        "id": 1762167092,
+        "shortname": "greenidtag",
+        "name": "Green ID Tag",
+        "description": "Green ID Tag"
     },
     {
         "id": 1840822026,
@@ -2064,6 +2106,12 @@
         "description": "An arctic variant of the hazmat suit which trades radiation for cold protection."
     },
     {
+        "id": -797592358,
+        "shortname": "hazmatsuit.diver",
+        "name": "Abyss Divers Suit",
+        "description": "A divers suit found in the abyss, doubles as a reliable hazmat suit"
+    },
+    {
         "id": 1266491000,
         "shortname": "hazmatsuit",
         "name": "Hazmat Suit",
@@ -2097,6 +2145,12 @@
         "id": 1107575710,
         "shortname": "hazmatsuit_scientist_arctic",
         "name": "Arctic Scientist Suit",
+        "description": "A hazmat suit made from radiation resistant rubber."
+    },
+    {
+        "id": 86840834,
+        "shortname": "hazmatsuit_scientist_nvgm",
+        "name": "NVGM Scientist Suit",
         "description": "A hazmat suit made from radiation resistant rubber."
     },
     {
@@ -2178,10 +2232,22 @@
         "description": "A set of wooden horse armor"
     },
     {
+        "id": -1323101799,
+        "shortname": "horse.saddle.double",
+        "name": "Double Horse Saddle",
+        "description": "A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the \"Claim\" option"
+    },
+    {
         "id": -1997543660,
         "shortname": "horse.saddle",
         "name": "Horse Saddle",
         "description": "Having this item allows you to claim a horse in a stable by holding E and selecting the \"Claim\" option"
+    },
+    {
+        "id": 1559915778,
+        "shortname": "horse.saddle.single",
+        "name": "Single Horse Saddle",
+        "description": "A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the \"Claim\" option"
     },
     {
         "id": 1400460850,
@@ -2760,6 +2826,12 @@
         "description": "A scrap of paper for leaving notes."
     },
     {
+        "id": -282193997,
+        "shortname": "orangeidtag",
+        "name": "Orange ID Tag",
+        "description": "Orange ID Tag"
+    },
+    {
         "id": 2063916636,
         "shortname": "oretea.advanced",
         "name": "Advanced Ore Tea",
@@ -2848,6 +2920,12 @@
         "shortname": "pickaxe",
         "name": "Pickaxe",
         "description": "A Pickaxe, useful for gathering ore from rocks."
+    },
+    {
+        "id": 180752235,
+        "shortname": "pinkidtag",
+        "name": "Pink ID Tag",
+        "description": "Pink ID Tag"
     },
     {
         "id": -144513264,
@@ -2988,6 +3066,12 @@
         "description": "A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy"
     },
     {
+        "id": -1386082991,
+        "shortname": "purpleidtag",
+        "name": "Purple ID Tag",
+        "description": "Purple ID Tag"
+    },
+    {
         "id": 2021351233,
         "shortname": "radiationremovetea.advanced",
         "name": "Advanced Rad. Removal Tea",
@@ -3036,6 +3120,12 @@
         "description": "Red Dog Tags"
     },
     {
+        "id": 70102328,
+        "shortname": "redidtag",
+        "name": "Red ID Tag",
+        "description": "Red ID Tag"
+    },
+    {
         "id": -1861522751,
         "shortname": "research.table",
         "name": "Research Table",
@@ -3064,6 +3154,12 @@
         "shortname": "rhib",
         "name": "RHIB",
         "description": ""
+    },
+    {
+        "id": -139037392,
+        "shortname": "rifle.ak.diver",
+        "name": "Abyss Assault Rifle",
+        "description": "A waterlogged assault rifle from the abyss"
     },
     {
         "id": -1335497659,
@@ -3208,6 +3304,12 @@
         "shortname": "rustige_egg_e",
         "name": "Rustigé Egg - Green",
         "description": "A beautiful hand crafted gold and green egg, with a miniature traincart contained inside."
+    },
+    {
+        "id": -173268128,
+        "shortname": "rustige_egg_f",
+        "name": "Rustigé Egg - White",
+        "description": "A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside."
     },
     {
         "id": -1978999529,
@@ -4026,6 +4128,12 @@
         "description": "A pair of sunglasses. Functional and stylish!"
     },
     {
+        "id": -1003665711,
+        "shortname": "supertea",
+        "name": "Super Serum",
+        "description": "Super Serum, more health, more ore, more wood, more scrap"
+    },
+    {
         "id": 1397052267,
         "shortname": "supply.signal",
         "name": "Supply Signal",
@@ -4150,6 +4258,12 @@
         "shortname": "tshirt.long",
         "name": "Longsleeve T-Shirt",
         "description": "A t-shirt with long sleeves."
+    },
+    {
+        "id": -561148628,
+        "shortname": "tugboat",
+        "name": "Tugboat",
+        "description": ""
     },
     {
         "id": -1478445584,
@@ -4386,6 +4500,12 @@
         "description": "A short wall made of solid ice."
     },
     {
+        "id": -81700958,
+        "shortname": "wall.window.bars.brickskin",
+        "name": "Brick Skin Window Bars",
+        "description": "Metal window bars made to fit a brick skin sized window."
+    },
+    {
         "id": -819720157,
         "shortname": "wall.window.bars.metal",
         "name": "Metal Window Bars",
@@ -4534,6 +4654,12 @@
         "shortname": "white.berry",
         "name": "White Berry",
         "description": "A white berry. Can be eaten or used in mixing table recipes to create teas."
+    },
+    {
+        "id": 22947882,
+        "shortname": "whiteidtag",
+        "name": "White ID Tag",
+        "description": "White ID Tag"
     },
     {
         "id": -144417939,
@@ -4774,5 +4900,11 @@
         "shortname": "yellow.berry",
         "name": "Yellow Berry",
         "description": "A yellow berry. Can be eaten or used in mixing table recipes to create teas."
+    },
+    {
+        "id": 81423963,
+        "shortname": "yellowidtag",
+        "name": "Yellow ID Tag",
+        "description": "Yellow ID Tag"
     }
 ]
