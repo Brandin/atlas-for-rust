@@ -127,6 +127,17 @@
   transform: translateY(100vh);
   opacity: 0;
 }
+
+.toggle__dot {
+  background-color: gray;
+  transition: all 0.3s;
+  left: -2px;
+}
+
+input[type="checkbox"]:checked + .toggle__dot {
+  background-color: green;
+  left: 10px;
+}
 </style>
 
 <script>
